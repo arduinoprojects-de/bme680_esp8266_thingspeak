@@ -2,7 +2,7 @@
 Example implementation for BSEC library for an BME680 sensor, also with activated CO2 equivalent and Breath-VOC equivalent. Integrated data export to ThingSpeak.
 
 # documentation how to wire and modify ESP8266 build
-* https://www.bluedot.space/tutorials/air-quality-measurement-with-the-bme680/
+* [https://www.bluedot.space/tutorials/air-quality-measurement-with-the-bme680/](https://www.bluedot.space/tutorials/air-quality-measurement-with-the-bme680-en/)
 * https://www.bluedot.space/products/bme680/
 
 # configuration
